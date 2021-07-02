@@ -1,0 +1,812 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v11_61 {
+  width: 100%;
+  height: 2296px;
+   background: rgba(225,187,81,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v29_3 {
+  width: 100%;
+  height: 45px;
+   background: rgba(225,187,81,1);
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 5px;
+  overflow: hidden;
+}
+.v11_51 {
+  width: 102px;
+  color: rgba(49,25,2,1);
+  position: absolute;
+  top: 18px;
+  left: 310px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_55 {
+  width: 102px;
+  color: rgba(49,25,2,1);
+  position: absolute;
+  top: 18px;
+  left: 460 px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_56 {
+  width: 121px;
+  color: rgba(49,25,2,1);
+  position: absolute;
+  top: 18px;
+  left: 348px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_57 {
+  width: 102px;
+  color: rgba(49,25,2,1);
+  position: absolute;
+  top: 18px;
+  left: 203px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_58 {
+  width: 119px;
+  color: rgba(49,25,2,1);
+  position: absolute;
+  top: 18px;
+  left: 77px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_50 {
+  width: 173px;
+  color: rgba(49,25,2,1);
+  position: absolute;
+  top: 15px;
+  left: 23px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_67 {
+  width: 100%;
+  height: 555px;
+   background: url("dar2.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 76px;
+  left: 0px;
+  overflow: hidden;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 27px;
+    text-align: center;
+    
+}
+.v11_68 {
+  width: 400px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 140px;
+  left: 25px;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 27px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_70 {
+  width: 534px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 207px;
+  left: 23px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 53px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_77 {
+  width: 341px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 306px;
+  left: 42px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_78 {
+  width: 211px;
+  height: 36px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 386px;
+  left: 68px;
+  border-top-left-radius: 23px;
+  border-top-right-radius: 23px;
+  border-bottom-left-radius: 23px;
+  border-bottom-right-radius: 23px;
+  overflow: hidden;
+}
+.v11_79 {
+  width: 104px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 395px;
+  left: 129px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_80 {
+  width: 230px;
+  height: 202px;
+  background: url("p11.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 429px;
+  left: 450px;
+  overflow: hidden;
+}
+.v28_2 {
+  width: 230px;
+  height: 378px;
+  background: url("p11.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 253px;
+  left: 700px;
+  overflow: hidden;
+}
+.v28_3 {
+  width: 230px;
+  height: 378px;
+  background: url("p11.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 120px;
+  left: 950px;
+  overflow: hidden;
+}
+.v11_128 {
+  width: 287px;
+  color: black;
+  position: absolute;
+  top: 1131px;
+  left: 480px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v33_1 {
+  width: 915px;
+  height: 273px;
+  background: url("../images/v33_1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1199px;
+  left: 52px;
+  overflow: hidden;
+}
+
+
+.v33_4 {
+  width: 915px;
+  height: 276px;
+  background: url("../images/v33_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1198px;
+  left: 160px;
+  overflow: hidden;
+}
+.v33_8 {
+  width: 915px;
+  height: 276px;
+  background: url("../images/v33_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v33_5 {
+  width: 593px;
+  height: 275px;
+  background: url("p0.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v33_6 {
+  width: 272px;
+  height: 132px;
+  background: url("p16.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 643px;
+  overflow: hidden;
+}
+.v33_7 {
+  width: 272px;
+  height: 132px;
+  background:  url("p1.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 144px;
+  left: 643px;
+  overflow: hidden;
+}
+.v33_14 {
+  width: 915px;
+  height: 276px;
+  background: url("../images/v33_14.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1486px;
+  left: 160px;
+  overflow: hidden;
+}
+.v33_15 { 
+  width: 560px;
+  height: 275px;
+   background: url("p3.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 355px;
+  overflow: hidden;
+}
+.v33_16 {
+  width: 272px;
+  height: 132px;
+   background: url("p11.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 40px;
+  overflow: hidden;
+}
+.v33_17 {
+  width: 272px;
+  height: 132px;
+   background: url("p9.png");
+  opacity: 1;
+  position: absolute;
+  top: 143px;
+  left: 40px;
+  overflow: hidden;
+}
+.v29_8 {
+  width: 100%;
+  height: 487px;
+  background: url("../images/v29_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 644px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_84 {
+  width: 100%;
+  height: 487px;
+   background: url("dar3.jpg");
+  opacity: 3;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+    overflow: hidden;
+  font-family: Montserrat;
+  font-weight: SemiBold;
+  font-size: 23px;
+    text-align: center;
+}
+.v11_87 {
+  width: 267px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 101px;
+  left: 60px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 29px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_88 {
+  width: 249px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 192px;
+  left: 68px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 11px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_107 {
+  width: 187px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 101px;
+  left: 458px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_109 {
+  width: 187px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 209px;
+  left: 458px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_108 {
+  width: 167px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 128px;
+  left: 458px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_120 {
+  width: 167px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 237px;
+  left: 459px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_103 {
+  width: 30px;
+  height: 29px;
+   background: rgba(235,145,91,1);
+  opacity: 1;
+  position: absolute;
+  top: 101px;
+  left: 419px;
+  overflow: hidden;
+}
+.v11_105 {
+  width: 30px;
+  height: 29px;
+  background: rgba(235,145,91,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 419px;
+  overflow: hidden;
+}
+.v28_8 {
+  width: 186px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 102px;
+  left: 784px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v28_9 {
+  width: 186px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 220px;
+  left: 784px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v28_10 {
+  width: 166px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 132px;
+  left: 784px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v28_11 {
+  width: 166px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 250px;
+  left: 785px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v28_12 {
+  width: 30px;
+  height: 31px;
+   background: rgba(235,145,91,1);
+  opacity: 1;
+  position: absolute;
+  top: 101px;
+  left: 746px;
+  overflow: hidden;
+}
+.v28_13 {
+  width: 30px;
+  height: 31px;
+  background: rgba(235,145,91,1);
+  opacity: 1;
+  position: absolute;
+  top: 224px;
+  left: 746px;
+  overflow: hidden;
+}
+.v28_5{
+  width: 211px;
+  height: 36px;
+   background-color:rgba(235,145,91,1);;
+  opacity: 1;
+  position: absolute;
+  top: 350px;
+  left: 88px;
+  border-top-left-radius: 23px;
+  border-top-right-radius: 23px;
+  border-bottom-left-radius: 23px;
+  border-bottom-right-radius: 23px;
+  overflow: hidden;
+}
+.v28_6 {
+  width: 104px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 360px;
+  left: 151px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v28_50 {
+  width: 377px;
+  height: 421px;
+  background: url("p6.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1811px;
+  left: 150px;s
+  overflow: hidden;
+}
+.v29_5 {
+  width: 377px;
+  height: 421px;
+  background: url("../images/v29_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  overflow: hidden;
+}
+.v29_6 {
+  width: 377px;
+  height: 421px;
+  background: url("../images/v29_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_137 {
+  width: 377px;
+  height: 421px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_138 {
+  width: 260px;
+  height: 17px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 107px;
+  left: 32px;
+  overflow: hidden;
+}
+.v11_139 {
+  width: 262px;
+  height: 17px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 169px;
+  left: 32px;
+  overflow: hidden;
+}
+.v11_140 {
+  width: 270px;
+  height: 118px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 231px;
+  left: 32px;
+  overflow: hidden;
+}
+.v11_142 {
+  width: 162px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 44px;
+  left: 72px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_143 {
+  width: 40px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 84px;
+  left: 32px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_147 {
+  width: 113px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 145px;
+  left: 32px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_148 {
+  width: 59px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 207px;
+  left: 32px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v28_51 {
+  width: 92px;
+  height: 19px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 376px;
+  left: 32px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v28_52 {
+  width: 21px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 381px;
+  left: 68px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 8px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_141 {
+  width: 598px;
+  height: 362px;
+   background: url("p2.jpg");
+  opacity: 1;
+  position: absolute;
+  top: 1820px;
+  left: 520px;
+  overflow: hidden;
+}
+   /* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px ; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize:vertical/* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: rgba(235,145,91,1);
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: navajowhite;
+  padding: 20px;
+}
+.nav{ 
+    background-color:white;
+    padding: 5pc;
+}
+
+
+.navbar-nav{ 
+    background-color:white;
+} 
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar{
+    
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    box-shadow: 0 .5rem .5rem burlywood;
+    z-index: 1;
+}
+.navbar a:hover{
+    background-color: burlywood
+}
+.dropdown-content{
+    display: block;
+}
+.dropbtn {
+    background-color: darkkhaki;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {  background-color: burlywood}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .btn {background-color:goldenrod;}
+
+.container-fluid{
+    align-items: center;
+}
+.container { 
+    position: relative;
+       background: url("");
+   
+    
+  }
+  
